@@ -76,5 +76,21 @@
   - Abra o Ponto de acesso e clique na aba **Config**
   - Procure a **Port 1** e configure com as seguintes informações:
      - SSID: APCasa Conectada
-     - 
+     - Canais:
+       - 2.4GHz: 11
+       - 5GHz: 36
+     - Autentication:
+       - WPAs-PSK
+       - Defina uma senha
+   - Não precisa salvar as configurações, pois o dispositivo já salva automaticamente.
+**Obs:** Caso você tenha mais de um AP, configure-os com informações similares às do primeiro AP.
+8. Adicione um Notebook e um celular e um tablet.
+  - No modo físico, posicione os dipositivos em um local adequado.
+  - Troque a placa de rede do notebook para que ele possa se conectar à rede sem fio
+  - Conecte o notebook à rede sem fio mais próxima.
+  - Conecte o celular e o tablet à rede sem fio mais próxima.
+    - Para conectar, clique na aba **Config** e procure a interface **Wireless0**
+    - Configure o SSID da rede à qual você pretende conectar o dispositivo e informe a senha.
+9. Salve o seu projeto
+10. Poste a atividade no [github: https://classroom.github.com/a/l84Kzo35](https://classroom.github.com/a/l84Kzo35)
   
