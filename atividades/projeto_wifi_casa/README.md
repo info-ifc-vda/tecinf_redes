@@ -83,6 +83,7 @@
        - WPAs-PSK
        - Defina uma senha
    - Não precisa salvar as configurações, pois o dispositivo já salva automaticamente.
+
 **Obs:** Caso você tenha mais de um AP, configure-os com informações similares às do primeiro AP.
 8. Adicione um Notebook e um celular e um tablet.
   - No modo físico, posicione os dipositivos em um local adequado.
