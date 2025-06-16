@@ -43,5 +43,9 @@
 
 2. Coloque as informações no README.md do github. Você pode escrever nesse arquivo usando tags html ou markdown. Markdown é mais fácil e você pode encontrar informações [aqui](https://www.markdownguide.org/basic-syntax/)
 
-## Tarefa 3:
+## Tarefa 3: Projeto no Packet Tracer
+1. Baixe o [arquivo base](https://github.com/info-ifc-vda/tecinf_redes/blob/main/atividades/projeto_wifi_casa/projeto_wifi.pkt) do projeto.
+2. Abra o projeto e vá na vizualização física
+3. Posicione o roteador sem fio e o ponto de acesso na mesma localização do projeto criado no UniFi Design Center. Se for necessário adicionar novos pontos de acesso, você pode copiar e colar o dispositivo já existente no projeto
+4. Na
   
