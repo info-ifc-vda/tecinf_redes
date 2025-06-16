@@ -21,5 +21,27 @@
    - Adicione os equipamentos de rede
        - Você deve incluir pelo menos um roteador (Devices -> CLoud Gateway), pois esse é o equipamento que conecta a sua casa ao Provedor de Serviços. Procure por um roteador doméstico
        - Se necessário, adicione Pontos de Acesso (APs): Devices -> Wifi. Procure por APs domésticos
-   - Posicione os equipamentos de modo que o sinal wifi cubra a casa inteira.
-   - Sal
+   - Posicione os equipamentos de modo que a casa obtenha boa conectividade tanto em 2.4GHz quanto em 5GHz.
+   - Exporte o projeto como **PDF**
+       - Inclua no seu PDF:
+           - Equipment List
+           - Topology
+           - Floor Plans
+           - Wifi Coverage
+   3. Poste sua atividade avaliativa no [github: https://classroom.github.com/a/l84Kzo35](https://classroom.github.com/a/l84Kzo35)
+
+## Tarefa 2: Pesquisa de características e preços
+1. Para cada um dos equipamentos incluídos no seu projeto pesquise:
+- Ár1ea de cobertura
+- Uplink
+- Montagem
+- Taxa máxima de dados
+- Ganho de antena
+- Tecnologias suportadas: informe quais tecnologias 802.11 o equipamento suporta e quais das tecnologias 2.4GHz, 5GHz e 6GHz o equipamento suporta
+- Potência de transmissão máxima
+- Recursos adicionais
+
+2. Coloque as informações no README.md do github. Você pode escrever nesse arquivo usando tags html ou markdown. Markdown é mais fácil e você pode encontrar informações [aqui](https://www.markdownguide.org/basic-syntax/)
+
+## Tarefa 3:
+  
