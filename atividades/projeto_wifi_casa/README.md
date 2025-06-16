@@ -32,20 +32,49 @@
 
 ## Tarefa 2: Pesquisa de características e preços
 1. Para cada um dos equipamentos incluídos no seu projeto pesquise:
-- Ár1ea de cobertura
+- Área de cobertura
 - Uplink
 - Montagem
 - Taxa máxima de dados
 - Ganho de antena
-- Tecnologias suportadas: informe quais tecnologias 802.11 o equipamento suporta e quais das tecnologias 2.4GHz, 5GHz e 6GHz o equipamento suporta
 - Potência de transmissão máxima
 - Recursos adicionais
+- Tecnologias suportadas: informe quais tecnologias 802.11 o equipamento suporta e quais das tecnologias 2.4GHz, 5GHz e 6GHz o equipamento suporta
+- Preço
 
 2. Coloque as informações no README.md do github. Você pode escrever nesse arquivo usando tags html ou markdown. Markdown é mais fácil e você pode encontrar informações [aqui](https://www.markdownguide.org/basic-syntax/)
 
 ## Tarefa 3: Projeto no Packet Tracer
 1. Baixe o [arquivo base](https://github.com/info-ifc-vda/tecinf_redes/blob/main/atividades/projeto_wifi_casa/projeto_wifi.pkt) do projeto.
-2. Abra o projeto e vá na vizualização física
+2. Abra o projeto e vá no modo físico.
 3. Posicione o roteador sem fio e o ponto de acesso na mesma localização do projeto criado no UniFi Design Center. Se for necessário adicionar novos pontos de acesso, você pode copiar e colar o dispositivo já existente no projeto
-4. Na
+4. No modo Lógico, conecte o **Roteador** ao **Roteador Wireless**
+  - Use o cabo Direto (Copper Straight Trhough)
+  - No Roteador, conecte o cabo à porta GigabitEthernet0/0
+  - No Roteador Wireless, conecte o cabo à porta Internet
+5. Conecte o **Roteador sem fio** aos Pontos de Acesso.
+  - No Roteador sem fio, escolha uma porta GigabitEthernet
+  - No Ponto de Acesso, conecte à porta Port 0
+6. Abra o **Roteador sem fio** e configure com as seguintes informações:
+  - Clique em **Wireless -> Basic Wireless Settings** e configure os seguintes itens:
+     - 2.4 GHz:
+       - SSID: CasaConectada
+       - Canal: 6
+       - Largura de Banda: 20MHz
+      - 5GHz:
+        - SSIG: CasaConectada5G
+        - Canal: 149
+        - Largura de Banda: 40MHz
+  - Salve as configurações
+  - Clique em **Wireless -> Wireless Security** e configure com as seguintes informações:
+     - 2.4GHz e 5GHz:
+        - Security Mode: WPA2 Personal
+        - Encryption: AES
+        - Password: (defina uma senha)
+  - Salve as configurações e feche a tela.
+7. Configure os Pontos de Acesso
+  - Abra o Ponto de acesso e clique na aba **Config**
+  - Procure a **Port 1** e configure com as seguintes informações:
+     - SSID: APCasa Conectada
+     - 
   
