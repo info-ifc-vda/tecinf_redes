@@ -43,6 +43,7 @@
 - Preço
 
 2. Coloque as informações no README.md do github. Você pode escrever nesse arquivo usando tags html ou markdown. Markdown é mais fácil e você pode encontrar informações [aqui](https://www.markdownguide.org/basic-syntax/)
+   - Para facilitar, utilize o [template](template.md) disponibilizado pela professora
 
 ## Tarefa 3: Projeto no Packet Tracer
 1. Baixe o [arquivo base](https://github.com/info-ifc-vda/tecinf_redes/blob/main/atividades/projeto_wifi_casa/projeto_wifi.pkt) do projeto.
