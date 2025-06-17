@@ -22,6 +22,7 @@
    - Adicione os equipamentos de rede
        - Você deve incluir pelo menos um roteador (Devices -> CLoud Gateway), pois esse é o equipamento que conecta a sua casa ao Provedor de Serviços. Procure por um roteador doméstico
        - Se necessário, adicione Pontos de Acesso (APs): Devices -> Wifi. Procure por APs domésticos
+       - Os Pontos de Acesso precisam ser conectados por cabo ao roteador.
    - Posicione os equipamentos de modo que a casa obtenha boa conectividade tanto em 2.4GHz quanto em 5GHz.
    - Exporte o projeto como **PDF**
        - Inclua no seu PDF:
