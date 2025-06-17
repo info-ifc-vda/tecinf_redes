@@ -14,9 +14,10 @@
    - Ajuste a escala **Set Scale** conforme informações da professora
    - Desenhe as paredes:
        - As paredes externas devem ser de tijolo
-       - As paredes internas devem ser de dry wall
-       - Coloque vidro nas paredes e nas portas de vidro
+       - As paredes internas devem ser de drywall
+       - Coloque vidro nas janelas e nas portas de vidro
        - Coloque madeira nas portas internas
+       - Coloque metal nos portões
        - Desenhe os móveis altos com madeira
    - Adicione os equipamentos de rede
        - Você deve incluir pelo menos um roteador (Devices -> CLoud Gateway), pois esse é o equipamento que conecta a sua casa ao Provedor de Serviços. Procure por um roteador doméstico
@@ -33,8 +34,8 @@
 ## Tarefa 2: Pesquisa de características e preços
 1. Para cada um dos equipamentos incluídos no seu projeto pesquise:
 - Área de cobertura
-- Uplink
-- Montagem
+- Uplink (somente para roteadores)
+- Montagem (teto ou parede)
 - Taxa máxima de dados
 - Ganho de antena
 - Potência de transmissão máxima
