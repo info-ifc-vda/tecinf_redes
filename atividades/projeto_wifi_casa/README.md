@@ -65,7 +65,7 @@
        - Canal: 6
        - Largura de Banda: 20MHz
       - 5GHz:
-        - SSIG: CasaConectada5G
+        - SSID: CasaConectada5G
         - Canal: 149
         - Largura de Banda: 40MHz
   - Salve as configurações
@@ -78,12 +78,12 @@
 7. Configure os Pontos de Acesso
   - Abra o Ponto de acesso e clique na aba **Config**
   - Procure a **Port 1** e configure com as seguintes informações:
-     - SSID: APCasa Conectada
+     - SSID: APCasaConectada
      - Canais:
        - 2.4GHz: 11
        - 5GHz: 36
      - Autentication:
-       - WPAs-PSK
+       - WPA2-PSK
        - Defina uma senha
    - Não precisa salvar as configurações, pois o dispositivo já salva automaticamente.
 
